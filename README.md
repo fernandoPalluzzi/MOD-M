@@ -1,4 +1,4 @@
-# MOD-M project overview
+# Multilayered Omics Data Modeling (MOD-M) project overview
 Next-Generation Sequencing (NGS) or High-Throughput Sequencing (HTS) are the generic terms used to include the range of sequencing-based technologies enabling a deep, heterogeneous, and large-scale investigation of genomic processes at different levels: molecular processes, cell development/fate, cell-cell interaction, tissue, organism, population.
 HTS data are:
 
