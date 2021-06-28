@@ -1,4 +1,4 @@
-# Multilayered Omics Data Modeling (MOD-M) Project
+# MOD-M project overview
 Next-Generation Sequencing (NGS) or High-Throughput Sequencing (HTS) are the generic terms used to include the range of sequencing-based technologies enabling a deep, heterogeneous, and large-scale investigation of genomic processes at different levels: molecular processes, cell development/fate, cell-cell interaction, tissue, organism, population.
 HTS data are:
 
@@ -15,7 +15,7 @@ These characteristics led to an actual deluge of big and complex data, and to th
 
 together with high-performance hardware settings, to cope with the computational burden required by these complex systems.
 
-The aim of the Multilayered Omics Data Modeling (MOD-M) project is to provide a computational core for the creation of multidimensional causal models, to evaluate the molecular underpinnings of homeostatic processes perturbation. The concept of perturbation arises when a system is altered (i.e., changed) by one or more external influences affecting its behavior respect to a reference state (often described as physiological or healthy). The ultimate goal of the MOD-M project is to provide a scalable statistical learning framework for generating data-driven models, enabling the detection of perturbation drivers within their molecular context, under different exogenous stimuli and experimental conditions.
+The concept of perturbation arises when a system is altered (i.e., changed) by one or more external influences affecting its behavior respect to a reference state (often described as physiological or healthy). The ultimate goal of the MOD-M project is to provide a scalable statistical learning framework for generating data-driven models, enabling the detection of perturbation drivers within their molecular context, under different exogenous stimuli and experimental conditions.
 
 # Repositories
 The MOD-M project is a collection of methodological solutions to ease the construction and testing of causal network-based models. To date, MOD-M is linked to the following repositories:
