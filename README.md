@@ -26,6 +26,6 @@ The MOD-M project is a collection of methodological solutions to ease the constr
 
 # References
 
-Palluzzi F, Grassi M. **SEMgraph: An R Package for Causal Network Analysis of High-Throughput Data with Structural Equation Models**. Sep 2021; arXiv:2103.08332.
+Palluzzi F, Grassi M. **SEMgraph: An R Package for Causal Network Analysis of High-Throughput Data with Structural Equation Models**. Jan 2022; arXiv:2103.08332.
 
 Palluzzi F, Ferrari R, Graziano F, Novelli V, Rossi G, Galimberti D, Rainero I, Benussi L, Nacmias B, Bruni AC, Cusi D, Salvi E, Borroni B, Grassi M. **A novel network analysis approach reveals DNA damage, oxidative stress and calcium/cAMP homeostasis-associated biomarkers in frontotemporal dementia**. PLoS One. 2017 Oct 11; 12(10): e0185797. doi: 10.1371/journal.pone.0185797. eCollection 2017. PMID: 29020091; PMCID: PMC5636111.
